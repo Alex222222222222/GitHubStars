@@ -117,7 +117,7 @@
 
 *   [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 
-*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing and management platform.
+*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
 
 *   [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 
