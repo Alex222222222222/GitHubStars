@@ -3,8 +3,8 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
-*   [Go](#go)
 *   [Rust](#rust)
+*   [Go](#go)
 *   [Swift](#swift)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -37,6 +37,8 @@
 *   [ASP](#asp)
 
 ## JavaScript
+
+*   [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 
 *   [EricWay1024/tikzcd-editor](https://github.com/EricWay1024/tikzcd-editor) - Drawing commutative diagrams for Typst commute
 
@@ -98,69 +100,9 @@
 
 *   [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 
-*   [cokolele/terraria-map-editor](https://github.com/cokolele/terraria-map-editor) - ✏️🌳 Terraria map editor, in a web browser.
-
-## Go
-
-*   [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-
-*   [yumusb/email\_router](https://github.com/yumusb/email_router) - duck.com selfhost, docker, catch-all
-
-*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
-
-*   [Gardelll/yggdrasil-go](https://github.com/Gardelll/yggdrasil-go) - A Mojang Yggdrasil Mock Server
-
-*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-
-*   [Alex222222222222/AppOcr](https://github.com/Alex222222222222/AppOcr) -
-
-*   [Alex222222222222/2fa](https://github.com/Alex222222222222/2fa) - Two-factor authentication on the command line
-
-*   [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
-
-*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-
-*   [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
-
-*   [c9s/goprocinfo](https://github.com/c9s/goprocinfo) - Linux /proc info parser for Go
-
-*   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
-
-*   [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
-
-*   [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
-
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
-*   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-
-*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-
-*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
-
-*   [arriven/db1000n](https://github.com/arriven/db1000n) -
-
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
-
-*   [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
-
-*   [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
-
-*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
 ## Rust
+
+*   [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
 
 *   [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 
@@ -275,6 +217,66 @@
 *   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+## Go
+
+*   [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+
+*   [yumusb/email\_router](https://github.com/yumusb/email_router) - duck.com selfhost, docker, catch-all
+
+*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+
+*   [Gardelll/yggdrasil-go](https://github.com/Gardelll/yggdrasil-go) - A Mojang Yggdrasil Mock Server
+
+*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+
+*   [Alex222222222222/AppOcr](https://github.com/Alex222222222222/AppOcr) -
+
+*   [Alex222222222222/2fa](https://github.com/Alex222222222222/2fa) - Two-factor authentication on the command line
+
+*   [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
+
+*   [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+
+*   [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
+
+*   [c9s/goprocinfo](https://github.com/c9s/goprocinfo) - Linux /proc info parser for Go
+
+*   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
+
+*   [xelaj/mtproto](https://github.com/xelaj/mtproto) - 🦋 Full-native go implementation of Telegram API
+
+*   [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
+
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
+*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+
+*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+
+*   [arriven/db1000n](https://github.com/arriven/db1000n) -
+
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
+
+*   [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
+
+*   [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
+
+*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## Swift
 
@@ -471,8 +473,6 @@
 *   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 *   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 
 ## Python
 
