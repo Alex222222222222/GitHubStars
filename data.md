@@ -149,7 +149,7 @@
 
 *   [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 
-*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.
+*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Real-time data ingestion, stream processing, online serving, and data management.
 
 *   [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 
@@ -345,8 +345,6 @@
 
 *   [Victrid/image-cache-worker](https://github.com/Victrid/image-cache-worker) - FreshRSS Picture Cache with Cloudflare Workers
 
-*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-
 *   [WisdomShell/codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell
 
 *   [Alex222222222222/CloudflareWorkers](https://github.com/Alex222222222222/CloudflareWorkers) - A list of useful cf workers created by myself
@@ -396,6 +394,8 @@
 ## Shell
 
 *   [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
+
+*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 
 *   [Alex222222222222/nixos-config](https://github.com/Alex222222222222/nixos-config) - My configuration for my NixOS servers and machines
 
