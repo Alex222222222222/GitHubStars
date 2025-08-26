@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [Swift](#swift)
 *   [Java](#java)
 *   [TypeScript](#typescript)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Shell](#shell)
 *   [TeX](#tex)
 *   [Vue](#vue)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Nix](#nix)
-*   [C++](#c-2)
 *   [Python](#python)
 *   [HTML](#html)
 *   [Dart](#dart)
@@ -34,6 +34,26 @@
 *   [Stylus](#stylus)
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## C++
+
+*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Retro device nc2000/nc2600 emulator (6502 cpu).  文曲星nc2000/nc2600模拟器
+
+*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+
+*   [scarsty/kys-cpp](https://github.com/scarsty/kys-cpp) - 《金庸群侠传》c++复刻版，已完工
+
+*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+
+*   [WisdomShell/llama\_cpp\_for\_codeshell](https://github.com/WisdomShell/llama_cpp_for_codeshell) - CodeShell model in C/C++
+
+*   [maHidaka/ros\_face](https://github.com/maHidaka/ros_face) -
+
+*   [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
 
 ## JavaScript
 
@@ -459,24 +479,6 @@
 
 *   [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  \[maintainer=@khaneliman, @rycee]
 
-## C++
-
-*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-
-*   [scarsty/kys-cpp](https://github.com/scarsty/kys-cpp) - 《金庸群侠传》c++复刻版，已完工
-
-*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-
-*   [WisdomShell/llama\_cpp\_for\_codeshell](https://github.com/WisdomShell/llama_cpp_for_codeshell) - CodeShell model in C/C++
-
-*   [maHidaka/ros\_face](https://github.com/maHidaka/ros_face) -
-
-*   [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
 ## Python
 
 *   [Hackl0us/apple-spyder](https://github.com/Hackl0us/apple-spyder) - A hard-working bot that captures Apple software updates and pushes notifications.
@@ -552,8 +554,6 @@
 *   [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
 
 *   [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
-
-*   [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
 
 ## HTML
 
