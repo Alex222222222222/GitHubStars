@@ -37,7 +37,7 @@
 
 ## C++
 
-*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Retro device nc2000/nc2600 emulator (6502 cpu).  文曲星nc2000/nc2600模拟器
+*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Retro device nc2000/nc2600/nc1020 emulator (6502 cpu).  文曲星nc2000/nc2600/nc1020模拟器
 
 *   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
