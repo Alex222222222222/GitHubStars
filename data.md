@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [C++](#c)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
 *   [Go](#go)
 *   [Swift](#swift)
 *   [Java](#java)
@@ -35,93 +35,9 @@
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
 
-## C++
-
-*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Retro device nc2000/nc2600/nc1020 emulator (6502 cpu).  文曲星nc2000/nc2600/nc1020模拟器
-
-*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-
-*   [scarsty/kys-cpp](https://github.com/scarsty/kys-cpp) - 《金庸群侠传》c++复刻版，已完工
-
-*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
-
-*   [WisdomShell/llama\_cpp\_for\_codeshell](https://github.com/WisdomShell/llama_cpp_for_codeshell) - CodeShell model in C/C++
-
-*   [maHidaka/ros\_face](https://github.com/maHidaka/ros_face) -
-
-*   [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-## JavaScript
-
-*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-
-*   [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
-
-*   [EricWay1024/tikzcd-editor](https://github.com/EricWay1024/tikzcd-editor) - Drawing commutative diagrams for Typst commute
-
-*   [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
-
-*   [kisonecat/tikzjax](https://github.com/kisonecat/tikzjax) - TikZJax is TikZ running under WebAssembly in the browser
-
-*   [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
-
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
-
-*   [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
-
-*   [dbilgili/GoogleTranslate](https://github.com/dbilgili/GoogleTranslate) - A basic macOS menu bar app to access Google Translate quickly
-
-*   [yqianjiang/minesweeper](https://github.com/yqianjiang/minesweeper) - 扫雷游戏网页版，使用JS实现，提供多种辅助功能。
-
-*   [commenthol/date-holidays](https://github.com/commenthol/date-holidays) - worldwide holidays
-
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
-
-*   [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
-
-*   [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
-
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-
-*   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
-
-*   [Hextris/hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris!
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) -
-
-*   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
-
-*   [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [makegirlsmoe/makegirlsmoe\_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
-
-*   [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love\_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-
-*   [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love\_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-
-*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
-
-*   [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
-
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-
-*   [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
-
-*   [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
-
 ## Rust
+
+*   [Tortured-Metaphor/LightCycle](https://github.com/Tortured-Metaphor/LightCycle) - A Rust LightCycle Game
 
 *   [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
@@ -240,6 +156,92 @@
 *   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+## C++
+
+*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Retro device nc2000/nc2600/nc1020 emulator (6502 cpu).  文曲星nc2000/nc2600/nc1020模拟器
+
+*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+
+*   [scarsty/kys-cpp](https://github.com/scarsty/kys-cpp) - 《金庸群侠传》c++复刻版，已完工
+
+*   [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+
+*   [WisdomShell/llama\_cpp\_for\_codeshell](https://github.com/WisdomShell/llama_cpp_for_codeshell) - CodeShell model in C/C++
+
+*   [maHidaka/ros\_face](https://github.com/maHidaka/ros_face) -
+
+*   [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+
+## JavaScript
+
+*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+
+*   [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
+
+*   [EricWay1024/tikzcd-editor](https://github.com/EricWay1024/tikzcd-editor) - Drawing commutative diagrams for Typst commute
+
+*   [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
+
+*   [kisonecat/tikzjax](https://github.com/kisonecat/tikzjax) - TikZJax is TikZ running under WebAssembly in the browser
+
+*   [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+
+*   [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
+
+*   [dbilgili/GoogleTranslate](https://github.com/dbilgili/GoogleTranslate) - A basic macOS menu bar app to access Google Translate quickly
+
+*   [yqianjiang/minesweeper](https://github.com/yqianjiang/minesweeper) - 扫雷游戏网页版，使用JS实现，提供多种辅助功能。
+
+*   [commenthol/date-holidays](https://github.com/commenthol/date-holidays) - worldwide holidays
+
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+
+*   [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
+
+*   [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
+
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+
+*   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
+
+*   [Hextris/hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris!
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) -
+
+*   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
+
+*   [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k
+
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [makegirlsmoe/makegirlsmoe\_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
+
+*   [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love\_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+
+*   [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love\_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
+
+*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+
+*   [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
+
+*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+
+*   [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
+
+*   [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 
 ## Go
 
@@ -466,8 +468,6 @@
 *   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 
 *   [d2r2/go-dht](https://github.com/d2r2/go-dht) - Golang library to interact with DHT11/DHT22/DHT12 temperature and humidity sensors from Raspberry PI.
-
-*   [FeralInteractive/gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 
 ## Nix
 
