@@ -37,6 +37,8 @@
 
 ## Rust
 
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+
 *   [Tortured-Metaphor/LightCycle](https://github.com/Tortured-Metaphor/LightCycle) - A Rust LightCycle Game
 
 *   [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -300,8 +302,6 @@
 *   [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 
 *   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## Swift
 
