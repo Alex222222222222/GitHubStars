@@ -37,6 +37,8 @@
 
 ## Rust
 
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+
 *   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -318,8 +320,6 @@
 *   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 
 *   [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
-
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
 ## Go
 
