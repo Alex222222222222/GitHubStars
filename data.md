@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [C++](#c)
@@ -9,7 +10,6 @@
 *   [Go](#go)
 *   [Swift](#swift)
 *   [Java](#java)
-*   [TypeScript](#typescript)
 *   [C#](#c-1)
 *   [Shell](#shell)
 *   [TeX](#tex)
@@ -34,6 +34,48 @@
 *   [Stylus](#stylus)
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## TypeScript
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
+
+*   [Losses/aliceRun](https://github.com/Losses/aliceRun) - Experimental media project.
+
+*   [Victrid/image-cache-worker](https://github.com/Victrid/image-cache-worker) - FreshRSS Picture Cache with Cloudflare Workers
+
+*   [WisdomShell/codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell
+
+*   [Alex222222222222/CloudflareWorkers](https://github.com/Alex222222222222/CloudflareWorkers) - A list of useful cf workers created by myself
+
+*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+
+*   [hexh250786313/coc-todo-tree](https://github.com/hexh250786313/coc-todo-tree) - Todo tree integration of coc.nvim
+
+*   [Alex222222222222/Blog](https://github.com/Alex222222222222/Blog) - personal blog
+
+*   [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe) - The globalping probe code that runs on your hardware and connects to the global community network of probes
+
+*   [henryjeff/portfolio-website](https://github.com/henryjeff/portfolio-website) -
+
+*   [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
+
+*   [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
+
+*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+
+*   [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
+
+*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+
+*   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
+
+*   [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
 
 ## Rust
 
@@ -241,8 +283,6 @@
 
 *   [justinzm/gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
 
-*   [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
-
 ## C++
 
 *   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Retro device nc2000/nc2600/nc1020 emulator (6502 cpu).  文曲星nc2000/nc2600/nc1020模拟器
@@ -434,46 +474,6 @@
 *   [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
 
 *   [Zodsmar/SeedSearcherStandaloneTool](https://github.com/Zodsmar/SeedSearcherStandaloneTool) - Minecraft, searching numeric seeds for specific features/biomes
-
-## TypeScript
-
-*   [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
-
-*   [Losses/aliceRun](https://github.com/Losses/aliceRun) - Experimental media project.
-
-*   [Victrid/image-cache-worker](https://github.com/Victrid/image-cache-worker) - FreshRSS Picture Cache with Cloudflare Workers
-
-*   [WisdomShell/codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell
-
-*   [Alex222222222222/CloudflareWorkers](https://github.com/Alex222222222222/CloudflareWorkers) - A list of useful cf workers created by myself
-
-*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
-
-*   [hexh250786313/coc-todo-tree](https://github.com/hexh250786313/coc-todo-tree) - Todo tree integration of coc.nvim
-
-*   [Alex222222222222/Blog](https://github.com/Alex222222222222/Blog) - personal blog
-
-*   [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe) - The globalping probe code that runs on your hardware and connects to the global community network of probes
-
-*   [henryjeff/portfolio-website](https://github.com/henryjeff/portfolio-website) -
-
-*   [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
-
-*   [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
-
-*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-*   [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
-
-*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-*   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
-
-*   [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
 
 ## C\#
 
