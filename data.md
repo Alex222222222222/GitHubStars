@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Typst](#typst)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -34,6 +35,10 @@
 *   [Stylus](#stylus)
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Typst
+
+*   [EricWay1024/Homological-Algebra-Notes](https://github.com/EricWay1024/Homological-Algebra-Notes) - Typst Lecture Notes for University of Oxford course C2.2 Homological Algebra (Michaelmas, 2023-24)
 
 ## Rust
 
@@ -358,8 +363,6 @@
 *   [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love\_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 
 *   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
-
-*   [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 
 ## Go
 
