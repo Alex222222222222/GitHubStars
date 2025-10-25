@@ -44,7 +44,7 @@
 
 *   [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist \[ˈtaɪni mɪst] is an integrated language service for Typst \[taɪpst].
 
-*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
 *   [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 
