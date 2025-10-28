@@ -518,7 +518,7 @@
 
 *   [imyueli/NottinghamThesisTemplate](https://github.com/imyueli/NottinghamThesisTemplate) - LaTeX template for the University of Nottingham thesis/dissertation.
 
-*   [Alex222222222222/TopologyNote](https://github.com/Alex222222222222/TopologyNote) - Note for studying topology concept
+*   [Alex222222222222/MathNote](https://github.com/Alex222222222222/MathNote) - Note for studying topology concept
 
 *   [Alex222222222222/UndergraduateMathSeminar](https://github.com/Alex222222222222/UndergraduateMathSeminar) - Notes and slides for undergraduate math seminar held by UUNC Math Department
 
