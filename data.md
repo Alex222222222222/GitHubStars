@@ -98,6 +98,8 @@
 
 *   [EricWay1024/Homological-Algebra-Notes](https://github.com/EricWay1024/Homological-Algebra-Notes) - Typst Lecture Notes for University of Oxford course C2.2 Homological Algebra (Michaelmas, 2023-24)
 
+*   [Alex222222222222/MathNote](https://github.com/Alex222222222222/MathNote) - Note for studying topology concept
+
 ## Rust
 
 *   [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist \[ˈtaɪni mɪst] is an integrated language service for Typst \[taɪpst].
@@ -156,7 +158,7 @@
 
 *   [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 
-*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
+*   [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
 
 *   [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 
@@ -517,8 +519,6 @@
 *   [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
 
 *   [imyueli/NottinghamThesisTemplate](https://github.com/imyueli/NottinghamThesisTemplate) - LaTeX template for the University of Nottingham thesis/dissertation.
-
-*   [Alex222222222222/MathNote](https://github.com/Alex222222222222/MathNote) - Note for studying topology concept
 
 *   [Alex222222222222/UndergraduateMathSeminar](https://github.com/Alex222222222222/UndergraduateMathSeminar) - Notes and slides for undergraduate math seminar held by UUNC Math Department
 
