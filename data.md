@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [JavaScript](#javascript)
 *   [Typst](#typst)
 *   [Rust](#rust)
@@ -13,7 +14,6 @@
 *   [Java](#java)
 *   [C#](#c-1)
 *   [Shell](#shell)
-*   [TeX](#tex)
 *   [Vue](#vue)
 *   [C](#c-2)
 *   [Nix](#nix)
@@ -35,6 +35,24 @@
 *   [Stylus](#stylus)
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## TeX
+
+*   [stacks/stacks-project](https://github.com/stacks/stacks-project) - Repository for the Stacks Project
+
+*   [Alex222222222222/Math](https://github.com/Alex222222222222/Math) - Collection of interesting math problems.
+
+*   [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
+
+*   [imyueli/NottinghamThesisTemplate](https://github.com/imyueli/NottinghamThesisTemplate) - LaTeX template for the University of Nottingham thesis/dissertation.
+
+*   [Alex222222222222/UndergraduateMathSeminar](https://github.com/Alex222222222222/UndergraduateMathSeminar) - Notes and slides for undergraduate math seminar held by UUNC Math Department
+
+*   [gitcordier/FunctionalAnalysis](https://github.com/gitcordier/FunctionalAnalysis) - Solutions to some exercises from Walter Rudin's Functional Analysis
+
+*   [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
+
+*   [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## JavaScript
 
@@ -271,8 +289,6 @@
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
 *   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
-
-*   [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
 
 ## Python
 
@@ -511,22 +527,6 @@
 *   [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
 
 *   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-
-## TeX
-
-*   [Alex222222222222/Math](https://github.com/Alex222222222222/Math) - Collection of interesting math problems.
-
-*   [sanjib-sen/WebLaTex](https://github.com/sanjib-sen/WebLaTex) - A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.
-
-*   [imyueli/NottinghamThesisTemplate](https://github.com/imyueli/NottinghamThesisTemplate) - LaTeX template for the University of Nottingham thesis/dissertation.
-
-*   [Alex222222222222/UndergraduateMathSeminar](https://github.com/Alex222222222222/UndergraduateMathSeminar) - Notes and slides for undergraduate math seminar held by UUNC Math Department
-
-*   [gitcordier/FunctionalAnalysis](https://github.com/gitcordier/FunctionalAnalysis) - Solutions to some exercises from Walter Rudin's Functional Analysis
-
-*   [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
-
-*   [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## Vue
 
