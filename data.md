@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [TeX](#tex)
 *   [JavaScript](#javascript)
 *   [Typst](#typst)
@@ -30,11 +31,16 @@
 *   [Kotlin](#kotlin)
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
-*   [Ruby](#ruby)
 *   [PHP](#php)
 *   [Stylus](#stylus)
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Ruby
+
+*   [ncatlab/nlab](https://github.com/ncatlab/nlab) - Source code for the nLab
+
+*   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 ## TeX
 
@@ -438,8 +444,6 @@
 
 *   [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 
-*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-
 ## Swift
 
 *   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
@@ -681,10 +685,6 @@
 ## Makefile
 
 *   [pwned4ever/Th0r\_Freya](https://github.com/pwned4ever/Th0r_Freya) - A fully open sourced iOS 11.x.x -12.x.x Jailbreak, unlike any others
-
-## Ruby
-
-*   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 ## PHP
 
