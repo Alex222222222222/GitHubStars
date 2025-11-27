@@ -396,7 +396,7 @@
 
 *   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 
-*   [Gardelll/yggdrasil-go](https://github.com/Gardelll/yggdrasil-go) - A Mojang Yggdrasil Mock Server
+*   [Gardelll/yggdrasil-go](https://github.com/Gardelll/yggdrasil-go) - A Mojang Yggdrasil Auth Server
 
 *   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 
