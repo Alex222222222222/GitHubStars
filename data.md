@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Elm](#elm)
 *   [Swift](#swift)
+*   [Elm](#elm)
 *   [TypeScript](#typescript)
 *   [Ruby](#ruby)
 *   [TeX](#tex)
@@ -37,11 +37,9 @@
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
 
-## Elm
-
-*   [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
-
 ## Swift
+
+*   [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar
 
 *   [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
 
@@ -82,6 +80,10 @@
 *   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 
 *   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
+
+## Elm
+
+*   [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 
 ## TypeScript
 
@@ -408,8 +410,6 @@
 *   [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
 *   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## C++
 
