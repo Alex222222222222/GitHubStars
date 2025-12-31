@@ -121,6 +121,8 @@
 
 *   [Victrid/image-cache-worker](https://github.com/Victrid/image-cache-worker) - FreshRSS Picture Cache with Cloudflare Workers
 
+*   [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+
 *   [WisdomShell/codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell
 
 *   [Alex222222222222/CloudflareWorkers](https://github.com/Alex222222222222/CloudflareWorkers) - A list of useful cf workers created by myself
@@ -374,8 +376,6 @@
 *   [Hackl0us/apple-spyder](https://github.com/Hackl0us/apple-spyder) - A hard-working bot that captures Apple software updates and pushes notifications.
 
 *   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
-
-*   [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 
 *   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
 
