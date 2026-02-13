@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [Swift](#swift)
+*   [Shell](#shell)
 *   [Elm](#elm)
 *   [TypeScript](#typescript)
 *   [Ruby](#ruby)
@@ -37,27 +37,9 @@
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
 
-## Shell
-
-*   [gshang2017/docker](https://github.com/gshang2017/docker) - Synology nas docker
-
-*   [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
-
-*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-
-*   [Alex222222222222/nixos-config](https://github.com/Alex222222222222/nixos-config) - My configuration for my NixOS servers and machines
-
-*   [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
-
-*   [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
-
-*   [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
-
-*   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-
 ## Swift
+
+*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 
 *   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 
@@ -102,6 +84,26 @@
 *   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 
 *   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
+
+## Shell
+
+*   [gshang2017/docker](https://github.com/gshang2017/docker) - Synology nas docker
+
+*   [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
+
+*   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+
+*   [Alex222222222222/nixos-config](https://github.com/Alex222222222222/nixos-config) - My configuration for my NixOS servers and machines
+
+*   [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
+
+*   [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
+
+*   [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
+
+*   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 
 ## Elm
 
@@ -426,8 +428,6 @@
 *   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 
 *   [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
-
-*   [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
 ## C++
 
