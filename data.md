@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [Swift](#swift)
+*   [Rust](#rust)
 *   [Shell](#shell)
 *   [Elm](#elm)
 *   [TypeScript](#typescript)
@@ -36,6 +36,56 @@
 *   [Stylus](#stylus)
 *   [VimL](#viml)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Swift
+
+*   [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
+
+*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
+
+*   [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar
+
+*   [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
+
+*   [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
+
+*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
+
+*   [SokoloffA/radiola](https://github.com/SokoloffA/radiola) -
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+
+*   [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
+
+*   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+
+*   [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
+
+*   [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+
+*   [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
+
+*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+
+*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+
+*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
+
+*   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 
 ## Rust
 
@@ -166,54 +216,6 @@
 *   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-## Swift
-
-*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
-
-*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
-
-*   [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar
-
-*   [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
-
-*   [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
-
-*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
-
-*   [SokoloffA/radiola](https://github.com/SokoloffA/radiola) -
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
-
-*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-
-*   [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
-
-*   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-
-*   [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
-
-*   [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-
-*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-
-*   [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
-
-*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-
-*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-
-*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-
-*   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 
 ## Shell
 
@@ -360,8 +362,6 @@
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 *   [makegirlsmoe/makegirlsmoe\_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
-
-*   [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love\_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 
 ## Typst
 
