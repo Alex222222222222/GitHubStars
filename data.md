@@ -39,6 +39,8 @@
 
 ## Go
 
+*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
 *   [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone) - CSI driver for rclone
 
 *   [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -90,8 +92,6 @@
 *   [arriven/db1000n](https://github.com/arriven/db1000n) -
 
 *   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
-
-*   [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
 
 ## Python
 
@@ -505,7 +505,7 @@
 
 ## C++
 
-*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Retro device nc2000/nc2600/nc1020 emulator (6502 cpu).  文曲星nc2000/nc2600/nc1020模拟器
+*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - 6502-based portable computer emulator.  文曲星nc2000/nc2600/nc1020模拟器
 
 *   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
