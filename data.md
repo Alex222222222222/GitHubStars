@@ -39,6 +39,8 @@
 
 ## Go
 
+*   [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+
 *   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 
 *   [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone) - CSI driver for rclone
@@ -91,7 +93,7 @@
 
 *   [arriven/db1000n](https://github.com/arriven/db1000n) -
 
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT OpenClaw
 
 ## Python
 
@@ -210,8 +212,6 @@
 *   [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) -
 
 *   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
-
-*   [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k
 
 ## Kotlin
 
@@ -505,7 +505,7 @@
 
 ## C++
 
-*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - 6502-based portable computer emulator.  文曲星nc2000/nc2600/nc1020模拟器
+*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Full-featured 6502-based portable computer emulator.  文曲星nc2000/nc2600/nc1020模拟器
 
 *   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
