@@ -37,6 +37,10 @@
 
 ## Rust
 
+*   [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini) - A high-level API for programmatically interacting with web pages through WebDriver.
+
+*   [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
+
 *   [zhongbai2333/Tomato-Novel-Downloader](https://github.com/zhongbai2333/Tomato-Novel-Downloader) - 番茄小说下载器不精简版
 
 *   [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
@@ -369,8 +373,6 @@
 
 *   [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 
-*   [DavidBuchanan314/ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Craft PNG files that appear completely different in Apple software \[NOW PATCHED]
-
 ## Dart
 
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
@@ -574,8 +576,6 @@
 *   [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a macOS app that downgrades A6 and A7 iDevices to OTA signed firmwares
 
 *   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
-
-*   [d2r2/go-dht](https://github.com/d2r2/go-dht) - Golang library to interact with DHT11/DHT22/DHT12 temperature and humidity sensors from Raspberry PI.
 
 ## Nix
 
