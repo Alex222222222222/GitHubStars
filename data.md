@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -10,7 +11,6 @@
 *   [Python](#python)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
-*   [Swift](#swift)
 *   [Elm](#elm)
 *   [TypeScript](#typescript)
 *   [Ruby](#ruby)
@@ -34,6 +34,56 @@
 *   [Makefile](#makefile)
 *   [PHP](#php)
 *   [Stylus](#stylus)
+
+## Swift
+
+*   [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
+
+*   [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
+
+*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
+
+*   [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar
+
+*   [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
+
+*   [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
+
+*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
+
+*   [SokoloffA/radiola](https://github.com/SokoloffA/radiola) -
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+
+*   [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
+
+*   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+
+*   [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
+
+*   [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+
+*   [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
+
+*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+
+*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+
+*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 
 ## Rust
 
@@ -397,54 +447,6 @@
 
 *   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
-## Swift
-
-*   [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-
-*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
-
-*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
-
-*   [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar
-
-*   [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
-
-*   [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
-
-*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
-
-*   [SokoloffA/radiola](https://github.com/SokoloffA/radiola) -
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
-
-*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-
-*   [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
-
-*   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-
-*   [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
-
-*   [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-
-*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-
-*   [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
-
-*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-
-*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-
-*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-
 ## Elm
 
 *   [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
@@ -640,8 +642,6 @@
 *   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
 
 ## Lua
 
