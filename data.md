@@ -2,13 +2,14 @@
 
 ## Table of Contents
 
+*   [C](#c)
+*   [Python](#python)
 *   [Swift](#swift)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [JavaScript](#javascript)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Shell](#shell)
-*   [Python](#python)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Elm](#elm)
@@ -17,9 +18,8 @@
 *   [TeX](#tex)
 *   [Typst](#typst)
 *   [Java](#java)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [Vue](#vue)
-*   [C](#c-2)
 *   [Nix](#nix)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
@@ -34,6 +34,70 @@
 *   [Makefile](#makefile)
 *   [PHP](#php)
 *   [Stylus](#stylus)
+
+## C
+
+*   [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
+*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+
+*   [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a macOS app that downgrades A6 and A7 iDevices to OTA signed firmwares
+
+*   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
+
+## Python
+
+*   [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
+
+*   [AstralSightStudios/AstroBox-NG](https://github.com/AstralSightStudios/AstroBox-NG) - A Rust-powered, highly extensible and portable toolbox for wearables, focused on installing and managing third-party apps on your device.
+
+*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+
+*   [Hackl0us/apple-spyder](https://github.com/Hackl0us/apple-spyder) - A hard-working bot that captures Apple software updates and pushes notifications.
+
+*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
+
+*   [WisdomShell/codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
+
+*   [kcroker/dpsprep](https://github.com/kcroker/dpsprep) - Python DJVU to PDF converter which preserves OCR text and bookmark metadata (e.g. TOC)
+
+*   [danielgross/localpilot](https://github.com/danielgross/localpilot) -
+
+*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+
+*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+
+*   [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+
+*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+
+*   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
+
+*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
+
+*   [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+
+*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
+
+*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+
+*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
+
+*   [PIKACHUIM/BanCert](https://github.com/PIKACHUIM/BanCert) - Windows代码签名证书限制工具 Windows Spam Softwares Coding Signing Certificate Block Tool
+
+*   [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [Justin-Tan/high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
+
+*   [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
+
+*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
 ## Swift
 
@@ -373,56 +437,6 @@
 
 *   [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
 
-## Python
-
-*   [AstralSightStudios/AstroBox-NG](https://github.com/AstralSightStudios/AstroBox-NG) - A Rust-powered, highly extensible and portable toolbox for wearables, focused on installing and managing third-party apps on your device.
-
-*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-
-*   [Hackl0us/apple-spyder](https://github.com/Hackl0us/apple-spyder) - A hard-working bot that captures Apple software updates and pushes notifications.
-
-*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
-
-*   [WisdomShell/codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
-
-*   [kcroker/dpsprep](https://github.com/kcroker/dpsprep) - Python DJVU to PDF converter which preserves OCR text and bookmark metadata (e.g. TOC)
-
-*   [danielgross/localpilot](https://github.com/danielgross/localpilot) -
-
-*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-
-*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-
-*   [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
-
-*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
-
-*   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
-
-*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
-
-*   [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
-
-*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-
-*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-
-*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
-
-*   [PIKACHUIM/BanCert](https://github.com/PIKACHUIM/BanCert) - Windows代码签名证书限制工具 Windows Spam Softwares Coding Signing Certificate Block Tool
-
-*   [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [Justin-Tan/high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
-
-*   [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
-
-*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-
-*   [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-
 ## Dart
 
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
@@ -567,18 +581,6 @@
 
 *   [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
 
-## C
-
-*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-
-*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-
-*   [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a macOS app that downgrades A6 and A7 iDevices to OTA signed firmwares
-
-*   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
-
 ## Nix
 
 *   [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -606,8 +608,6 @@
 *   [iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo) - Hugo版 WebStack 主题 Demo
 
 *   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 ## Objective-C
 
