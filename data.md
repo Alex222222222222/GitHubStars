@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [C](#c)
 *   [Python](#python)
 *   [Swift](#swift)
-*   [Rust](#rust)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [C++](#c-1)
@@ -35,121 +35,9 @@
 *   [PHP](#php)
 *   [Stylus](#stylus)
 
-## C
-
-*   [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-
-*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-
-*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-
-*   [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a macOS app that downgrades A6 and A7 iDevices to OTA signed firmwares
-
-*   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
-
-## Python
-
-*   [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
-
-*   [AstralSightStudios/AstroBox-NG](https://github.com/AstralSightStudios/AstroBox-NG) - A Rust-powered, highly extensible and portable toolbox for wearables, focused on installing and managing third-party apps on your device.
-
-*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-
-*   [Hackl0us/apple-spyder](https://github.com/Hackl0us/apple-spyder) - A hard-working bot that captures Apple software updates and pushes notifications.
-
-*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
-
-*   [WisdomShell/codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
-
-*   [kcroker/dpsprep](https://github.com/kcroker/dpsprep) - Python DJVU to PDF converter which preserves OCR text and bookmark metadata (e.g. TOC)
-
-*   [danielgross/localpilot](https://github.com/danielgross/localpilot) -
-
-*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-
-*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-
-*   [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
-
-*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
-
-*   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
-
-*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
-
-*   [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
-
-*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-
-*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-
-*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
-
-*   [PIKACHUIM/BanCert](https://github.com/PIKACHUIM/BanCert) - Windows代码签名证书限制工具 Windows Spam Softwares Coding Signing Certificate Block Tool
-
-*   [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [Justin-Tan/high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
-
-*   [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
-
-*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-
-## Swift
-
-*   [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
-
-*   [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-
-*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
-
-*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
-
-*   [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar
-
-*   [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
-
-*   [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
-
-*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
-
-*   [SokoloffA/radiola](https://github.com/SokoloffA/radiola) -
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
-
-*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
-
-*   [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
-
-*   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
-
-*   [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
-
-*   [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-
-*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-
-*   [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
-
-*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-
-*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-
-*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-
 ## Rust
+
+*   [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 
 *   [jonhoo/fantoccini](https://github.com/jonhoo/fantoccini) - A high-level API for programmatically interacting with web pages through WebDriver.
 
@@ -284,6 +172,118 @@
 *   [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+## C
+
+*   [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
+*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+
+*   [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a macOS app that downgrades A6 and A7 iDevices to OTA signed firmwares
+
+*   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
+
+## Python
+
+*   [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
+
+*   [AstralSightStudios/AstroBox-NG](https://github.com/AstralSightStudios/AstroBox-NG) - A Rust-powered, highly extensible and portable toolbox for wearables, focused on installing and managing third-party apps on your device.
+
+*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+
+*   [Hackl0us/apple-spyder](https://github.com/Hackl0us/apple-spyder) - A hard-working bot that captures Apple software updates and pushes notifications.
+
+*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
+
+*   [WisdomShell/codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
+
+*   [kcroker/dpsprep](https://github.com/kcroker/dpsprep) - Python DJVU to PDF converter which preserves OCR text and bookmark metadata (e.g. TOC)
+
+*   [danielgross/localpilot](https://github.com/danielgross/localpilot) -
+
+*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+
+*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+
+*   [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+
+*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+
+*   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
+
+*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
+
+*   [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+
+*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
+
+*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+
+*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
+
+*   [PIKACHUIM/BanCert](https://github.com/PIKACHUIM/BanCert) - Windows代码签名证书限制工具 Windows Spam Softwares Coding Signing Certificate Block Tool
+
+*   [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [Justin-Tan/high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
+
+*   [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
+
+## Swift
+
+*   [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
+
+*   [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+*   [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
+
+*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
+
+*   [beutton/wattsec](https://github.com/beutton/wattsec) - Display macOS power usage (wattage) in the menu bar
+
+*   [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless) - Native iOS app for interacting with a Paperless-ngx installation to manage documents
+
+*   [sindresorhus/macos-trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash
+
+*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
+
+*   [SokoloffA/radiola](https://github.com/SokoloffA/radiola) -
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+
+*   [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+
+*   [xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll) - A mac app to help monitor your app badges!
+
+*   [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
+
+*   [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
+
+*   [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+*   [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+
+*   [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
+
+*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+
+*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+
+*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 
 ## Go
 
