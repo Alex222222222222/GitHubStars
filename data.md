@@ -2,9 +2,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [Python](#python)
 *   [Rust](#rust)
 *   [C](#c)
-*   [Python](#python)
 *   [Swift](#swift)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -13,7 +14,6 @@
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Elm](#elm)
-*   [TypeScript](#typescript)
 *   [Ruby](#ruby)
 *   [TeX](#tex)
 *   [Typst](#typst)
@@ -34,6 +34,104 @@
 *   [Makefile](#makefile)
 *   [PHP](#php)
 *   [Stylus](#stylus)
+
+## TypeScript
+
+*   [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS | Bilibili-like app with DASH playback, danmaku, WBI sign & live streaming
+
+*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
+
+*   [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
+
+*   [Losses/aliceRun](https://github.com/Losses/aliceRun) - Experimental media project.
+
+*   [Victrid/image-cache-worker](https://github.com/Victrid/image-cache-worker) - FreshRSS Picture Cache with Cloudflare Workers
+
+*   [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+
+*   [WisdomShell/codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell
+
+*   [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
+
+*   [Alex222222222222/CloudflareWorkers](https://github.com/Alex222222222222/CloudflareWorkers) - A list of useful cf workers created by myself
+
+*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+
+*   [hexh250786313/coc-todo-tree](https://github.com/hexh250786313/coc-todo-tree) - Todo tree integration of coc.nvim
+
+*   [Alex222222222222/Blog](https://github.com/Alex222222222222/Blog) - personal blog
+
+*   [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe) - The globalping probe code that runs on your hardware and connects to the global community network of probes
+
+*   [henryjeff/portfolio-website](https://github.com/henryjeff/portfolio-website) -
+
+*   [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
+
+*   [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
+
+*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+
+*   [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
+
+*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+
+*   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
+
+## Python
+
+*   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+
+*   [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
+
+*   [AstralSightStudios/AstroBox-NG](https://github.com/AstralSightStudios/AstroBox-NG) - A Rust-powered, highly extensible and portable toolbox for wearables, focused on installing and managing third-party apps on your device.
+
+*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+
+*   [Hackl0us/apple-spyder](https://github.com/Hackl0us/apple-spyder) - A hard-working bot that captures Apple software updates and pushes notifications.
+
+*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
+
+*   [WisdomShell/codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
+
+*   [kcroker/dpsprep](https://github.com/kcroker/dpsprep) - Python DJVU to PDF converter which preserves OCR text and bookmark metadata (e.g. TOC)
+
+*   [danielgross/localpilot](https://github.com/danielgross/localpilot) -
+
+*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+
+*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+
+*   [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+
+*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+
+*   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
+
+*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
+
+*   [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+
+*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
+
+*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+
+*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
+
+*   [PIKACHUIM/BanCert](https://github.com/PIKACHUIM/BanCert) - Windows代码签名证书限制工具 Windows Spam Softwares Coding Signing Certificate Block Tool
+
+*   [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [Justin-Tan/high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
 
 ## Rust
 
@@ -186,54 +284,6 @@
 *   [rA9stuff/LeetDown](https://github.com/rA9stuff/LeetDown) - a macOS app that downgrades A6 and A7 iDevices to OTA signed firmwares
 
 *   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
-
-## Python
-
-*   [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console) - codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
-
-*   [AstralSightStudios/AstroBox-NG](https://github.com/AstralSightStudios/AstroBox-NG) - A Rust-powered, highly extensible and portable toolbox for wearables, focused on installing and managing third-party apps on your device.
-
-*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-
-*   [Hackl0us/apple-spyder](https://github.com/Hackl0us/apple-spyder) - A hard-working bot that captures Apple software updates and pushes notifications.
-
-*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
-
-*   [WisdomShell/codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
-
-*   [kcroker/dpsprep](https://github.com/kcroker/dpsprep) - Python DJVU to PDF converter which preserves OCR text and bookmark metadata (e.g. TOC)
-
-*   [danielgross/localpilot](https://github.com/danielgross/localpilot) -
-
-*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-
-*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-
-*   [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
-
-*   [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
-
-*   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
-
-*   [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
-
-*   [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
-
-*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-
-*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-
-*   [bukson/steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
-
-*   [PIKACHUIM/BanCert](https://github.com/PIKACHUIM/BanCert) - Windows代码签名证书限制工具 Windows Spam Softwares Coding Signing Certificate Block Tool
-
-*   [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [Justin-Tan/high-fidelity-generative-compression](https://github.com/Justin-Tan/high-fidelity-generative-compression) - Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression
-
-*   [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning and Agentic AI Resources, Practice and Research
 
 ## Swift
 
@@ -465,54 +515,6 @@
 
 *   [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 
-## TypeScript
-
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-*   [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
-
-*   [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
-
-*   [Losses/aliceRun](https://github.com/Losses/aliceRun) - Experimental media project.
-
-*   [Victrid/image-cache-worker](https://github.com/Victrid/image-cache-worker) - FreshRSS Picture Cache with Cloudflare Workers
-
-*   [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-
-*   [WisdomShell/codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell
-
-*   [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
-
-*   [Alex222222222222/CloudflareWorkers](https://github.com/Alex222222222222/CloudflareWorkers) - A list of useful cf workers created by myself
-
-*   [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
-
-*   [hexh250786313/coc-todo-tree](https://github.com/hexh250786313/coc-todo-tree) - Todo tree integration of coc.nvim
-
-*   [Alex222222222222/Blog](https://github.com/Alex222222222222/Blog) - personal blog
-
-*   [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe) - The globalping probe code that runs on your hardware and connects to the global community network of probes
-
-*   [henryjeff/portfolio-website](https://github.com/henryjeff/portfolio-website) -
-
-*   [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
-
-*   [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
-
-*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-*   [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
-
-*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-*   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
-
 ## Ruby
 
 *   [ncatlab/nlab](https://github.com/ncatlab/nlab) - Source code for the nLab
@@ -534,8 +536,6 @@
 *   [gitcordier/FunctionalAnalysis](https://github.com/gitcordier/FunctionalAnalysis) - Solutions to some exercises from Walter Rudin's Functional Analysis
 
 *   [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
-
-*   [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## Typst
 
