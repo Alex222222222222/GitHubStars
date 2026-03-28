@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Pascal](#pascal)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Rust](#rust)
@@ -34,6 +35,10 @@
 *   [Makefile](#makefile)
 *   [PHP](#php)
 *   [Stylus](#stylus)
+
+## Pascal
+
+*   [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
 
 ## TypeScript
 
@@ -332,8 +337,6 @@
 *   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 
 *   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-
-*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 
 ## Go
 
