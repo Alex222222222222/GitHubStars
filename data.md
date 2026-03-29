@@ -356,7 +356,7 @@
 
 *   [yumusb/email\_router](https://github.com/yumusb/email_router) - duck.com selfhost, docker, catch-all
 
-*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 
 *   [Gardelll/yggdrasil-go](https://github.com/Gardelll/yggdrasil-go) - A Mojang Yggdrasil Auth Server
 
