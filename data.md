@@ -452,7 +452,7 @@
 
 *   [wszqkzqk/PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) - A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition.
 
-*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - Full-featured 6502-based portable computer emulator.  文曲星nc2000/nc2600/nc1020模拟器
+*   [wangyu-/NC2000](https://github.com/wangyu-/NC2000) - A 6502-based portable computer emulator.  文曲星nc2000/nc2600/nc1020模拟器
 
 *   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
