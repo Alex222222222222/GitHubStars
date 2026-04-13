@@ -20,7 +20,6 @@
 *   [TeX](#tex)
 *   [Typst](#typst)
 *   [Java](#java)
-*   [Vue](#vue)
 *   [Nix](#nix)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
@@ -35,6 +34,7 @@
 *   [Makefile](#makefile)
 *   [PHP](#php)
 *   [Stylus](#stylus)
+*   [Vue](#vue)
 
 ## Swift
 
@@ -119,6 +119,8 @@
 *   [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 
 *   [Losses/aliceRun](https://github.com/Losses/aliceRun) - Experimental media project.
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 
 *   [Victrid/image-cache-worker](https://github.com/Victrid/image-cache-worker) - FreshRSS Picture Cache with Cloudflare Workers
 
@@ -580,12 +582,6 @@
 
 *   [Zodsmar/SeedSearcherStandaloneTool](https://github.com/Zodsmar/SeedSearcherStandaloneTool) - Minecraft, searching numeric seeds for specific features/biomes
 
-## Vue
-
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-
-*   [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
-
 ## Nix
 
 *   [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -701,3 +697,7 @@
 ## Stylus
 
 *   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
+
+## Vue
+
+*   [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
