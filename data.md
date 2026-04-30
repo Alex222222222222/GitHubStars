@@ -108,7 +108,7 @@
 
 ## TypeScript
 
-*   [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) -
+*   [tiajinsha/JKVideo](https://github.com/tiajinsha/JKVideo) - 高颜值第三方 B 站 React Native 客户端
 
 *   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 
