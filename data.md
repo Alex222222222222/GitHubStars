@@ -404,7 +404,7 @@
 
 *   [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+*   [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 *   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
