@@ -100,7 +100,7 @@
 
 *   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
-*   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
+*   [kitsuned/PotatoNV](https://github.com/kitsuned/PotatoNV) - Unlock the bootloader on Huawei devices with Kirin 620/65x/95x/960
 
 ## Pascal
 
